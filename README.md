@@ -21,13 +21,19 @@
 
 </div>
 
-## 📌 Executive Summary
+## 📌 Overview
 
-I am a Computer Science & Engineering student at **S.B. Jain Institute of Technology, Management & Research, Nagpur** (Class of 2027) with a strong career commitment to **Python Backend Development**.
+I am a Computer Science & Engineering student at **S.B. Jain Institute of Technology, Management & Research, Nagpur** (Class of 2027) with an academic minor in **Data Business Analytics**, specializing in **Python Backend Development**.
 
-My focus centers on constructing clean, high-performance web services, data-driven API backends, and relational database integrations. Currently, I work as a **Backend Developer Intern at Arithwise**, where I contribute to the backend services of an analytics platform—writing FastAPI endpoints, structuring PostgreSQL queries, and validating end-to-end data workflows between client, server, and database tiers.
+Here is a quick snapshot of my engineering profile:
 
-In addition to backend engineering, I bring foundational knowledge in **Data Analytics and Business Intelligence (Power BI, SQL querying)** and am actively expanding into **Data Engineering** concepts (ETL pipelines, data modeling, and distributed data systems).
+* 👤 **Who I Am**: A backend-focused computer science undergraduate passionate about writing clean, reliable, and testable server-side software.
+* ⚙️ **Core Tech Stack**: **Python**, **FastAPI**, **PostgreSQL**, **SQL**, **Pydantic**, and **REST APIs**.
+* 💼 **Practical Experience**: Currently gaining real-world industry experience as a **Backend Developer Intern at Arithwise**, implementing API endpoints, writing PostgreSQL queries, and validating end-to-end data workflows for an analytics platform.
+* 📈 **Analytics & BI**: Practical grounding in **Power BI**, data querying with SQL, and understanding how backend systems power business analytics software.
+* 🚀 **Currently Learning**: Docker & deployment fundamentals, advanced SQL (CTEs, Window Functions), and core **Data Engineering** pipeline concepts (ETL, dimensional modeling, Pandas).
+* 🎯 **The Developer I Aim to Become**: A high-impact backend & systems engineer who designs resilient, scalable APIs and data-backed services capable of effortlessly supporting data products and distributed workflows.
+* 📂 **Where to Find My Work**: Explore my [Featured Projects](#-featured-repositories--projects) below or reach out directly via [shivampatle2004@gmail.com](mailto:shivampatle2004@gmail.com) and [LinkedIn](https://www.linkedin.com/in/shivam-undefined-935902276/).
 
 ---
 
