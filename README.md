@@ -1,118 +1,62 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shivam Patle</h1>
+<h3 align="center">A passionate Python Backend Developer from Nagpur, India</h3>
 
-# Hi, I'm Shivam Patle 👋
-### Python Backend Developer | FastAPI | PostgreSQL | Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;FastAPI+%26+PostgreSQL+APIs;Backend+Intern+%40+Arithwise;Data+Analytics+%26+Power+BI;Always+Building+Reliable+Systems+🚀&center=true&width=550&height=45" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivampatle2004)
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **Python Backend Services, FastAPI REST APIs, and PostgreSQL Relational Schemas**
+
+- 💼 Currently interning at **Arithwise**, building backend features & API endpoints for an **Analytics Application**
+
+- 🌱 I’m currently learning **Docker, Deployment Fundamentals & Data Engineering Concepts**
+
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/shivampatle2004?tab=repositories)
+
+- 📫 How to reach me: **shivampatle2004@gmail.com**
+
+- 💬 Ask me about **Python, FastAPI, PostgreSQL, REST APIs, SQL, and Power BI**
+
+- ⚡ Fun fact: **I love diving into algorithmic puzzle design and building clean APIs that power real-world analytics!**
 
 <br />
 
-<p align="center">
-  <em>Engineering reliable, data-backed REST APIs and backend architectures with Python, FastAPI, and PostgreSQL.</em><br />
-  <b>Computer Science Undergraduate (2027)</b> • <b>Minor in Data Business Analytics</b> • <b>Backend Developer Intern at Arithwise</b>
-</p>
+---
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-</div>
+## 🧠 Developer Snapshot & Overview
 
-## 📌 Overview
-
-I am a Computer Science & Engineering student at **S.B. Jain Institute of Technology, Management & Research, Nagpur** (Class of 2027) with an academic minor in **Data Business Analytics**, specializing in **Python Backend Development**.
-
-Here is a quick snapshot of my engineering profile:
-
-* 👤 **Who I Am**: A backend-focused computer science undergraduate passionate about writing clean, reliable, and testable server-side software.
-* ⚙️ **Core Tech Stack**: **Python**, **FastAPI**, **PostgreSQL**, **SQL**, **Pydantic**, and **REST APIs**.
-* 💼 **Practical Experience**: Currently gaining real-world industry experience as a **Backend Developer Intern at Arithwise**, implementing API endpoints, writing PostgreSQL queries, and validating end-to-end data workflows for an analytics platform.
-* 📈 **Analytics & BI**: Practical grounding in **Power BI**, data querying with SQL, and understanding how backend systems power business analytics software.
-* 🚀 **Currently Learning**: Docker & deployment fundamentals, advanced SQL (CTEs, Window Functions), and core **Data Engineering** pipeline concepts (ETL, dimensional modeling, Pandas).
-* 🎯 **The Developer I Aim to Become**: A high-impact backend & systems engineer who designs resilient, scalable APIs and data-backed services capable of effortlessly supporting data products and distributed workflows.
-* 📂 **Where to Find My Work**: Explore my [Featured Projects](#-featured-repositories--projects) below or reach out directly via [shivampatle2004@gmail.com](mailto:shivampatle2004@gmail.com) and [LinkedIn](https://www.linkedin.com/in/shivam-undefined-935902276/).
-
----
-
-## 🛠️ Technical Stack & Tooling
-
-<table>
-  <tr>
-    <td width="22%" valign="top"><b>Core Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/CRUD_Architecture-2B5B84?style=flat-square" alt="CRUD" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Databases & Storage</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Relational_Modeling-1B365D?style=flat-square" alt="Relational Modeling" />
-      <img src="https://img.shields.io/badge/Database_Design-4A5568?style=flat-square" alt="Database Design" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Analytics & BI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Data_Analytics_Fundamentals-0284C7?style=flat-square" alt="Data Analytics" />
-      <img src="https://img.shields.io/badge/SQL_Querying-00758F?style=flat-square" alt="SQL Querying" />
-      <img src="https://img.shields.io/badge/Analytical_Thinking-475569?style=flat-square" alt="Analytical Thinking" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Developer Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/JSON_APIs-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>CS Core Foundations</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="OOP" />
-      <img src="https://img.shields.io/badge/DBMS-1E293B?style=flat-square" alt="DBMS" />
-      <img src="https://img.shields.io/badge/Operating_Systems-0F172A?style=flat-square" alt="OS" />
-      <img src="https://img.shields.io/badge/Computer_Networks-1E3A8A?style=flat-square" alt="Networks" />
-      <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1E40AF?style=flat-square" alt="DSA" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Currently Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Deployment_Fundamentals-059669?style=flat-square" alt="Deployment" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/ETL_Pipelines-D97706?style=flat-square" alt="ETL" />
-      <img src="https://img.shields.io/badge/Data_Engineering_Basics-7C3AED?style=flat-square" alt="Data Engineering" />
-    </td>
-  </tr>
-</table>
+- 🧑‍💻 **Primary Focus:** Python Backend Development & API Engineering  
+- 🐍 **Core Stack:** Python, FastAPI, PostgreSQL, Pydantic, RESTful APIs  
+- 💼 **Industry Experience:** Backend Developer Intern at **Arithwise** (working on analytics platform backend workflows)  
+- 📊 **Analytics & BI:** Power BI, SQL Querying, Data Interpretation, Analytical Thinking  
+- 🎓 **Education:** B.Tech in CSE (Minor in Data Business Analytics), *S.B. Jain Institute of Technology, Management & Research, Nagpur* (2023 – 2027)  
+- 🧩 **CS Foundations:** OOP, DBMS, Operating Systems, Computer Networks, Data Structures & Algorithms  
+- 🌱 **Currently Exploring:** Docker, Advanced SQL (CTEs & Window Functions), and Data Engineering fundamentals (ETL pipelines, data warehousing, Pandas)
 
 ---
 
 ## 🐍 My Python Backend Journey
 
-Python is the core foundation of my software engineering path. Rather than treating it merely as a scripting language, I study its architectural strengths, type systems, and data paradigms as I progress toward production-oriented backend development.
+Python is the core foundation of my software engineering path:
 
 ```
 ┌────────────────────────────────┐     ┌────────────────────────────────┐
@@ -131,13 +75,11 @@ Python is the core foundation of my software engineering path. Rather than treat
 └────────────────────────────────┘     └────────────────────────────────┘
 ```
 
-- **Core Problem-Solving & Fundamentals**: Mastering Python data structures (lists, dictionaries, sets, tuples), comprehension paradigms, modular project organization, and consistent algorithmic practice.
-- **Object-Oriented Design (OOP)**: Writing maintainable code through encapsulation, abstract base classes, class hierarchies, and robust exception-handling strategies.
-- **RESTful API Architecture (FastAPI)**: Structuring clean asynchronous routes, dependency injection, and automatic OpenAPI documentation.
-- **Input Validation & Serialization (Pydantic)**: Enforcing strict runtime data integrity, typed request payloads, and standardized error responses.
-- **Database-Backed Applications**: Integrating PostgreSQL with Python, constructing relational schemas, writing efficient queries, and managing ACID transactions.
-- **Testing & Quality Assurance**: Validating endpoints via Postman and automated scripts, inspecting edge cases, and tracing error stacks for stability.
-- **Current Frontier**: Exploring Docker containerization, containerized environments, and cloud deployment fundamentals.
+- **Problem Solving & Fundamentals**: Writing clean, modular Python utilizing standard data structures, list comprehensions, and OOP principles.
+- **RESTful API Architecture (FastAPI)**: Structuring asynchronous routes, dependency injection, and automatic OpenAPI documentation.
+- **Data Validation (Pydantic)**: Strict runtime data validation, typed request payloads, and standard error handling.
+- **Database Integration (PostgreSQL)**: Designing relational models, writing queries, and handling CRUD transactions.
+- **Testing & Quality**: Testing endpoints through Postman and automated scripts to maintain backend stability.
 
 ---
 
@@ -147,86 +89,34 @@ Python is the core foundation of my software engineering path. Rather than treat
 *March 2026 – Present | Nagpur, India*  
 *Domain: Business Analytics & Data Applications*
 
-- **Backend Feature Engineering**: Actively contributing to the backend service layer for an enterprise analytics application (**OneStopAnalytics**) using **Python** and **FastAPI**.
-- **REST API Implementation**: Building and refining REST API endpoints that securely transport application data, user queries, and analytical outputs.
-- **Database Integration**: Writing and validating **PostgreSQL** queries, managing data models, and ensuring dependable CRUD operations under application workflows.
-- **Cross-Layer Validation**: Cooperating across frontend and backend boundaries to debug API integrations, handle request validation, and verify end-to-end data consistency.
-- **Engineering Workflows**: Practicing structured version control, code hygiene, and collaborative repository management via **Git and GitHub**.
+- **Backend Feature Engineering**: Implementing backend services for an enterprise analytics application (**OneStopAnalytics**) using **Python** and **FastAPI**.
+- **REST API Implementation**: Developing and optimizing REST API endpoints that securely transport application data, user queries, and analytics outputs.
+- **Database Integration**: Writing and validating **PostgreSQL** queries, data models, and CRUD operations under real-world application workflows.
+- **Cross-Layer Validation**: Cooperating with frontend and database components to debug API integrations and ensure end-to-end data integrity.
+- **Git Workflows**: Practicing structured version control, code hygiene, and collaborative repository management via **Git & GitHub**.
 
 ---
 
-## 📂 Featured Repositories & Projects
+## 🌟 Featured Projects
 
-A curated selection of my public engineering projects showcasing backend services, API design, system modeling, and data pipelines:
+- 🔹 **[LandOS](https://github.com/shivampatle2004/LandOS)** — Full-stack property & land management platform with a centralized database-driven backend in FastAPI & PostgreSQL handling layouts, plots, customers, brokers, and payments.  
+- 🔹 **[API Consumer Usage & Analytics Console](https://github.com/shivampatle2004/API-Consumer-Usage-Analytics-Console)** — Multi-service API architecture separating Super Admin & Consumer Developer portals with real-time request metrics, quotas, and automated test clients.  
+- 🔹 **[Synthetic Manuscript Generator](https://github.com/shivampatle2004/synthetic-manuscript-generator)** — Modular Python pipeline generating synthetic historical Indic manuscript folios (Devanagari, Modi, Sharada) with synchronized annotation generation.  
+- 🔹 **[AI Tic-Tac-Toe (Moving Window Variant)](https://github.com/shivampatle2004/Ai_tac-tac-too-tae)** — Interactive game engine with a 3-mark moving window and an unbeatable AI powered by Minimax with Alpha-Beta pruning.  
+- 🔹 **[Python Practice & Code Labs](https://github.com/shivampatle2004/python_pratice)** — Ongoing laboratory cataloging Python OOP, data structures, and algorithmic problem-solving.  
 
-### 1. [LandOS — Scalable Property & Land Management Platform](https://github.com/shivampatle2004/LandOS)
-> **Full-Stack Property Administration Architecture**  
-> **Tech**: `FastAPI` • `PostgreSQL` • `React` • `REST APIs` • `Pydantic`
-- Built a centralized management backend handling complex relational entities: layouts, plots, customers, brokers, transaction logs, and document workflows.
-- Designed database-driven REST API endpoints in FastAPI with strict Pydantic payload validation and PostgreSQL schema constraints.
-- Emphasizes an incremental, clean architectural design avoiding premature over-engineering.
-
-### 2. [API Consumer Usage & Analytics Console](https://github.com/shivampatle2004/API-Consumer-Usage-Analytics-Console)
-> **Multi-Service API Ingestion & Monitoring Architecture**  
-> **Tech**: `Python` • `FastAPI` • `SQLAlchemy` • `SQLite / PostgreSQL` • `REST APIs`
-- Implemented an isolated dual-portal system separating **Super Admin** (API Provider) and **Developer** (API Consumer) ecosystems across dedicated port configurations.
-- Engineered API key issuance, request quotas, and live consumption metrics to demonstrate how backend systems track and analyze API traffic.
-- Built automated test clients (`test_client.py`) and live verification routines to test endpoint reliability under load.
-
-### 3. [Synthetic Manuscript Generator](https://github.com/shivampatle2004/synthetic-manuscript-generator)
-> **Automated Synthetic Data Generation & Annotation Pipeline**  
-> **Tech**: `Python` • `OOP` • `Data Pipelines` • `Image Processing`
-- Designed an extensible, modular Python pipeline for generating visually varied synthetic historical Indic manuscript folios (Devanagari, Modi, Sharada scripts).
-- Implemented synchronized ground-truth annotation outputs (bounding boxes and Markdown transcriptions) for downstream machine learning datasets.
-- Highlights clean object-oriented Python design, reproducible pipeline stages, and file I/O optimization.
-
-### 4. [AI Tic-Tac-Toe (Moving Window Variant)](https://github.com/shivampatle2004/Ai_tac-tac-too-tae)
-> **State Space Game Engine & Unbeatable Adversarial AI**  
-> **Tech**: `Python` • `Minimax Algorithm` • `Alpha-Beta Pruning` • `Web APIs`
-- Engineered a dynamic game engine where players are restricted to 3 active marks on the board—placing a 4th causes the oldest mark to vanish, eliminating standard ties.
-- Implemented an unbeatable AI opponent utilizing the **Minimax algorithm with Alpha-Beta pruning**, demonstrating algorithmic problem-solving and state-tree evaluation.
-
-### 5. [Python Practice & Algorithmic Progression](https://github.com/shivampatle2004/python_pratice)
-> **Structured Technical Progression & Code Labs**  
-> **Tech**: `Python` • `OOP` • `Data Structures & Algorithms` • `Jupyter`
-- An ongoing repository cataloging my continuous technical growth across Python OOP, data structures (hash tables, linked structures, search algorithms), and mathematical computing fundamentals.
+➡️ Explore all repositories here: [My GitHub Repositories](https://github.com/shivampatle2004?tab=repositories)
 
 ---
 
-## 📊 Analytics & Business Intelligence
+## 📊 Analytics & Exploring Data Engineering
 
-I bridge the gap between backend engineering and analytical decision-making. Having a background in analytics allows me to design databases and APIs with data consumers in mind.
-
-- **Power BI & Visual Analytics**: Foundational understanding of business intelligence workflows, report creation, and metric tracking.
-- **SQL & Data Querying**: Writing analytical queries, multi-table joins, aggregations, and subqueries to extract actionable figures from raw relational data.
-- **Backend Support for Analytics**: My internship at Arithwise provides direct, hands-on exposure to how backend APIs serve as the data backbone for business analytics software, dashboards, and reporting engines.
-- **Analytical Thinking**: Applying structured reasoning to problem-solving, identifying data anomalies, and designing schema structures that optimize read-heavy analytics queries.
-
----
-
-## 🔭 Exploring Data Engineering
-
-Along with my primary commitment to Python backend development, I am proactively exploring modern **Data Engineering** fundamentals to understand how large volumes of data are ingested, transformed, and queried at scale:
-
-* **Advanced SQL**: Mastering Common Table Expressions (CTEs), Window Functions (`ROW_NUMBER`, `RANK`, `LEAD`/`LAG`), and query execution plans.
-* **ETL & Data Pipelines**: Studying data ingestion patterns, batch vs. streaming concepts, and idempotent transformation pipelines.
-* **Data Warehousing Principles**: Learning dimensional modeling, Star/Snowflake schemas, Fact/Dimension tables, and analytical storage strategies.
-* **Python Data Processing**: Utilizing **Pandas** for structured data wrangling, cleaning, and tabular transformations.
-* **Future Learning Roadmap**:
-  - *Cloud Data Ingestion*: Azure Data Factory (ADF) & Azure data services
-  - *Big Data Analytics*: Databricks, Apache Spark / PySpark, and Delta Lake architectures
-
-> *Note: My core focus remains Python Backend Engineering. Data Engineering is an active, structured area of personal study and exploration.*
-
----
-
-## 🎓 Education & Academic Background
-
-- **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-  *S.B. Jain Institute of Technology, Management & Research, Nagpur* | **2023 – 2027**  
-  - **Academic Standing**: 8.06 CGPA  
-  - **Academic Minor**: Data Business Analytics  
-  - **Relevant Coursework**: Data Structures & Algorithms, Database Management Systems (DBMS), Computer Networks, Operating Systems, Software Engineering, Object-Oriented Programming
+- **Power BI & Visual Analytics**: Understanding business intelligence workflows, dashboard generation, and how backend APIs feed analytics platforms.
+- **SQL & Data Querying**: Writing analytical queries, multi-table joins, and aggregations to interpret data trends.
+- **Data Engineering Learning Roadmap**:
+  - *Advanced SQL*: CTEs, Window Functions (`ROW_NUMBER`, `RANK`, `LEAD`/`LAG`).
+  - *ETL & Pipelines*: Data ingestion, idempotent batch processing, and Pandas data transformations.
+  - *Warehousing & Cloud*: Dimensional modeling (Star/Snowflake), with future learning in Azure Data Factory, Databricks, PySpark, and Delta Lake.
 
 ---
 
@@ -240,22 +130,16 @@ Along with my primary commitment to Python backend development, I am proactively
 
 ---
 
-## 📬 Let's Connect
+## 📫 Connect with Me
 
-I am always keen to connect with fellow backend developers, engineering teams, and recruiters hiring for Python backend roles.
+<p align="center">
+  <a href="https://github.com/shivampatle2004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:shivampatle2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivam-undefined-935902276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-undefined-935902276/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampatle2004@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivampatle2004)
-
-<br />
-
-📫 **Direct Email**: [shivampatle2004@gmail.com](mailto:shivampatle2004@gmail.com)  
-📍 **Location**: Nagpur, Maharashtra, India  
-⚡ **Fun Fact**: When I'm not writing APIs, I enjoy exploring chess heuristics and algorithmic puzzle designs!
-
-</div>
+<p align="center">⚡ Keep Learning. Keep Building. Keep Growing. 🚀</p>
