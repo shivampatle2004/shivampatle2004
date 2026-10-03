@@ -26,7 +26,7 @@ I am a **Computer Science Engineering undergraduate** (Class of 2027) at **S.B. 
 
 My primary focus is **Python Backend Development**. I build structured, database-backed RESTful APIs with **FastAPI** and **PostgreSQL**, focusing on clean data modeling, schema validation, and reliable application workflows. Alongside backend engineering, I have a strong foundation in **Data Analytics & Power BI**, enabling me to design APIs and relational schemas that effectively support data-intensive business applications.
 
-- 🔭 **Current Role:** Backend Developer Intern at **Arithwise**, contributing to an enterprise analytics application.
+- 🔭 **Current Role:** Backend Developer Intern at **Arithwise**
 - 🎯 **Primary Focus:** Python backend services, asynchronous REST APIs with FastAPI, relational databases with PostgreSQL.
 - 📊 **Analytics Exposure:** Data querying, metric interpretation, and business intelligence with Power BI.
 - 🚀 **Growth Direction:** Expanding into Docker containerization, deployment practices, and foundational Data Engineering.
@@ -79,15 +79,12 @@ Python is the core foundation of my software engineering path. Rather than rushi
 
 ## 💼 Practical Experience
 
-### **Backend Developer Intern** — [Arithwise](https://www.arithwise.com)
-*March 2026 – Present | Nagpur, India*  
-*Focus: Analytics Application Development (OneStopAnalytics)*
+### **Backend Developer Intern** — Arithwise
+*March 2026 – Present | Nagpur, India*
 
-- **Backend Feature Implementation:** Developing and maintaining backend services for an enterprise analytics platform using **Python** and **FastAPI**.
-- **REST API Endpoints:** Building and optimizing REST APIs that handle data retrieval, user interaction flows, and analytics query processing.
-- **Database Operations:** Working with **PostgreSQL** relational tables, writing queries, and managing CRUD workflows for application data.
-- **Cross-Layer Validation:** Verifying end-to-end data flows and edge cases across frontend, backend, and database components to ensure system consistency.
-- **Collaborative Git Practices:** Following structured version control workflows with feature branching, pull requests, and code reviews on **Git & GitHub**.
+- Backend Developer Intern working with Python, FastAPI, and PostgreSQL.
+- Gaining practical experience in backend engineering, API workflows, and relational databases.
+- Following collaborative development workflows using Git and GitHub.
 
 ---
 
@@ -134,13 +131,12 @@ Modern backend systems do not operate in a vacuum—they generate and power data
 
 Alongside my core Python backend path, I am actively building foundational knowledge in **Data Engineering** to understand large-scale data transformation and storage:
 
-- [ ] **Advanced SQL Mastery:** Complex joins, Common Table Expressions (CTEs), and Window Functions (`ROW_NUMBER`, `RANK`, `LEAD`/`LAG`).
-- [ ] **ETL & Data Pipelines:** Principles of data ingestion, batch transformations, and idempotent data pipelines.
-- [ ] **Data Processing with Pandas:** Working with dataframes, cleaning heterogeneous datasets, and automated transformation scripts.
-- [ ] **Data Warehousing Fundamentals:** Dimensional modeling concepts (Star and Snowflake schemas, Fact vs. Dimension tables).
-- [ ] **Cloud & Big Data Ecosystem (Future Roadmap):** Conceptual exploration of Azure Data Factory (ADF), Databricks, PySpark, and Delta Lake.
+- **Advanced SQL Mastery:** Complex joins, Common Table Expressions (CTEs), and Window Functions (`ROW_NUMBER`, `RANK`, `LEAD`/`LAG`).
+- **ETL & Data Pipelines:** Principles of data ingestion, batch transformations, and idempotent data pipelines.
+- **Data Processing with Pandas:** Working with dataframes, cleaning heterogeneous datasets, and automated transformation scripts.
+- **Data Warehousing Fundamentals:** Dimensional modeling concepts (Star and Snowflake schemas, Fact vs. Dimension tables).
+- **Cloud & Big Data Ecosystem (Future Roadmap):** Conceptual exploration of Azure Data Factory (ADF), Databricks, PySpark, and Delta Lake.
 
-> *Note: My primary identity is Python Backend Development. Data Engineering is an intentional, complementary learning track to deepen my data architectural capabilities.*
 
 ---
 
